@@ -7,3 +7,4 @@ Draft by Ana Marinković, built from her research notes in Obsidian. Every recor
 Open `index.html` in a browser, or view the published page via GitHub Pages.
 
 Images: rights reserved; taken from the MACBA website or the source named on each record.
+
